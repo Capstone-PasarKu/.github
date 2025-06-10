@@ -66,10 +66,10 @@
 |------|----------|
 | Fahrel Ardzaky Eriyanputra | [LinkedIn](https://www.linkedin.com/in/fahrel-ardzaky-eriyanputra/) |
 | Rifki Ahmad Fahreizi | [LinkedIn](https://www.linkedin.com/in/rifki-ahmad-fahreizi/) |
-| Jocelyn Nathaniel Patricktan | [LinkedIn](linkedin.com/in/jocelyn-nathaniel-patricktan) |
-| Syanindhia Tihta Pranasya | [LinkedIn](linkedin.com/in/syanindhiatihtapranasya) |
-| Dhia Fakhira Athallah | [LinkedIn](linkedin.com/in/dhiaathallah) |
-| Angelica Izabella | [LinkedIn](https://www.linkedin.com/in/angelica-izabella) |
+| Jocelyn Nathaniel Patricktan | [LinkedIn](https://www.linkedin.com/in/jocelyn-nathaniel-patricktan/) |
+| Syanindhia Tihta Pranasya | [LinkedIn](https://www.linkedin.com/in/syanindhiatihtapranasya/) |
+| Dhia Fakhira Athallah | [LinkedIn](https://www.linkedin.com/in/dhiaathallah/) |
+| Angelica Izabella | [LinkedIn](https://www.linkedin.com/in/angelica-izabella/) |
 
 ---
 
