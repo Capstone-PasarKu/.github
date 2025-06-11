@@ -9,7 +9,7 @@
 - Meningkatkan aksesibilitas pasar tradisional  
 - Memberikan kemudahan bagi pembeli dengan keterbatasan waktu  
 - Memberdayakan pedagang untuk menjangkau lebih banyak pelanggan  
-- Menyediakan fitur AI untuk prediksi harga & pengecekan kualitas barang  
+- Menyediakan fitur AI untuk prediksi pengecekan kualitas barang  
 
 🌟 **Tujuan utama** dari proyek ini adalah memodernisasi pasar tradisional Indonesia sambil tetap menjaga kearifan lokal dan nuansa khas pasar.
 
