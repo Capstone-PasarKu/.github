@@ -53,7 +53,7 @@
 ## ✨ Fitur Utama PasarKu
 
 - 🔍 **Pencarian Produk & Pedagang** – Temukan barang dari pedagang terdekat dengan mudah.  
-- 📈 **AI Prediksi Harga & Kualitas** – Bantu pembeli membuat keputusan berdasarkan analisis.  
+- 📈 **AI Prediksi Kualitas** – Bantu pembeli membuat keputusan berdasarkan analisis.  
 - 🛒 **Keranjang Belanja & Checkout** – Fitur belanja online seperti e-commerce modern.  
 - 📷 **Upload Foto Barang** – Untuk pengecekan kualitas oleh AI.  
 - 📡 **Real-time Update** – Stok dan informasi pedagang terintegrasi secara langsung.  
