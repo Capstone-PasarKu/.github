@@ -18,7 +18,7 @@
 ## 🌐 Website & Demo
 
 - 🔗 **Website:** [Kunjungi PasarKu](https://pasarku-fe-prod.vercel.app/)
-- 🎥 **Demo Video:** [Tonton Demo](#)
+- 🎥 **Demo Video:** [Tonton Demo](https://www.youtube.com/watch?v=VGxuPczHv2Q)
 
 ---
 
@@ -41,12 +41,17 @@
 - **React**
 - **Tailwind CSS**
 - **Vercel (Deployment)**
+- **Firebase**
+- **Express JS**
 
 ### 🧠 Machine Learning:
 - **Python**
 - **TensorFlow**
+- **TensorFlow Lite**
 - **Google Colab**
-- **Google Drive (Model Hosting)**
+- **Google Drive**
+- **Fast API**
+- **Hugging Face**
 
 ---
 
